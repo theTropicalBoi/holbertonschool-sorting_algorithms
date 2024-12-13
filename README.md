@@ -1,2 +1,2 @@
 # holbertonschool-sorting_algorithms
-C - Sorting algorithms &amp; Big O
+C - Sorting algorithms & Big O
