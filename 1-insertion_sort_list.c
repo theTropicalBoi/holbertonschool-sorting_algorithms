@@ -1,8 +1,9 @@
 #include "sort.h"
+
 /**
- * insertion_sort_list - Sorts a doubly linked list of integers in 
- * ascending order using the Insertion sort algorithm
- * @list: Pointer to pointer structure.
+ * insertion_sort_list - Sorts a doubly linked list of integers in ascending
+ * order using the Insertion sort algorithm
+ * @list: pointer to the pointer of the head of the list
  */
 void insertion_sort_list(listint_t **list)
 {
@@ -32,3 +33,4 @@ void insertion_sort_list(listint_t **list)
 		current = temp;
 	}
 }
+

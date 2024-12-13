@@ -32,7 +32,6 @@ listint_t *create_listint(const int *array, size_t size)
 	}
 	return (list);
 }
-
 /**
  * main - Entry point
  *
